@@ -392,4 +392,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the Owler Company Intelligence API to power your competitor intelligence and account research workflows with reliable, structured results.*
 
-Last Updated: 2026.08.11
+Last Updated: 2026.08.12
